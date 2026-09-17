@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uedepyts.github.io/sitemap.xml
